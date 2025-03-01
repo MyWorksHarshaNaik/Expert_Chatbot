@@ -35,7 +35,7 @@ AI_Expert_Chatbot/
 |--- |--- Experiment1.ipynb # local notebook for creating vector db
 |--- |--- Experiment2.ipynb # chat bot testing 
 |--- Report/
-|--- |--- Report.pdf
+|--- |--- Report on Developing an Expert Chatbot Using arXiv Dataset.pdf
 |--- src/
 |--- |--- helper.py
 |--- |--- app.py
