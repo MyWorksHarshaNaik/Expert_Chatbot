@@ -1,0 +1,12 @@
+https://www.kaggle.com/datasets/Cornell-University/arxiv/code
+
+Develop a chatbot that serves as an expert in a specific domain, capable of answering complex queries and explaining concepts. 
+Use the arXiv dataset ( https://www.kaggle.com/datasets/Cornell-University/arxiv) for scientific papers in various fields. 
+Train the chatbot on a specific subset of the arXiv dataset (e.g., computer science). 
+Implement advanced NLP techniques for information extraction, summarization, and user open source LLM for explanation generation. 
+
+Expected Outcome: A chatbot that can discuss advanced topics in the chosen field, provide summaries of research papers, and 
+explain complex concepts. Ability to handle follow-up questions on complex topics. Implement using Streamlit with features for
+paper searching and concept visualization
+
+
